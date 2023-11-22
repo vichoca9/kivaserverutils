@@ -4,6 +4,7 @@
   "package": "com.kiva.client.mixins",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "MixinThreadHeavy"
+    "MixinThreadHeavy",
+    "MixinTextureStitched"
   ]
 }
